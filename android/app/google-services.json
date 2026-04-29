@@ -1,0 +1,28 @@
+{
+  "project_info": {
+    "project_number": "741655260371",
+    "project_id": "testexplorer-17f63"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741655260371:android:085c46850fa0c16d5cb826",
+        "android_client_info": {
+          "package_name": "com.qnb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB66ey39Yl03dD7A_OYQ4wClaXQqnyMY5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
